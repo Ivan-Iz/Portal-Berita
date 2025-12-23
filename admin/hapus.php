@@ -1,0 +1,1 @@
+<?php include '../config/koneksi.php'; mysqli_query($conn,"DELETE FROM berita WHERE id='$_GET[id]' "); header('Location: dashboard.php'); ?>
