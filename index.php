@@ -17,4 +17,5 @@
 </div>
 </div>
 <script src="assets/js/script.js"></script>
-</body></html>
+</body>
+</html>
